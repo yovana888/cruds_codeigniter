@@ -1,0 +1,1 @@
+Carpeta donde se sube los scripts para actualizara la base de datos
